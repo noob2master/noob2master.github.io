@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "jekyll使用入门"
+date:   2021-11-17 22:50:00 +0800
+categories: jekyll update
+author: noob2master
+---
+参考链接: [jekyll使用入门][jekyll使用入门]
+
+[jekyll使用入门]:https://www.cnblogs.com/baiyangcao/p/jekyll_basic.html)
